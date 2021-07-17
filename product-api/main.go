@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/learn-microservices/product-api/handlers"
+	"github.com/albukhary/learn-microservices/product-api/handlers"
 )
 
 func main() {
